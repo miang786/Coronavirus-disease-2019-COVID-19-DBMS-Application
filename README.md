@@ -16,10 +16,3 @@ DATA IN Register_Patient_Details TABLE
 <img width="470" alt="image" src="https://user-images.githubusercontent.com/61027154/194760146-9d09a22f-5c02-4bcc-ab27-e0e6423ad467.png">
 <img width="470" alt="image" src="https://user-images.githubusercontent.com/61027154/194760152-834e1c9f-1020-4071-bd05-9e7a987b19a9.png">
 <img width="470" alt="image" src="https://user-images.githubusercontent.com/61027154/194760156-ac7b4c63-3da9-4e3e-a89f-a06ab430dcc6.png">
-
-DATA IN Patient_Checkup TABLE
-
-
-
-DATA IN Admit_Patient TABLE
-
